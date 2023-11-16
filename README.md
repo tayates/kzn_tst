@@ -8,4 +8,5 @@ The input data are the frequency distribution of 214 positive reactions in milli
 For more details, see 
 
 Yates TA et al, Tuberculin Skin Test Surveys and the Annual Risk of Tuberculous Infection in School Children in Northern KwaZulu-Natal. PLOS Global Public Health (under review).
+
 Yates TA. Mycobacterium tuberculosis infection in Southern Africa - exploring patterns, locating transmission. UCL, 2016 (https://discovery.ucl.ac.uk/id/eprint/1532679/).
